@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_4</string>
+    <string name="send">ENTER</string>
+    <string name="entered">You entered:</string>
+    <string name="movie">Movie:</string>
+    <string name="tv">TV show:</string>
+    <string name="pref_movie">Which movie do you like?</string>
+    <string name="pref_tv">Which TV show do you like?</string>
+    <string name="preference">Enter your preferences.</string>
+</resources>
